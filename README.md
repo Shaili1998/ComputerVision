@@ -1,5 +1,4 @@
 # Demographic Characterstics and Emotion Prediction in Video Meetings
-====================================================================
 
 
  * Project strcture
@@ -17,4 +16,4 @@
 1. To train run Training_Script.ipynb
 2. To test results run Demographic_Char_Emo_Prediction.ipynb 
 
-### Output 
+### Output Screenshot 
