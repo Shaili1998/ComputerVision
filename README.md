@@ -16,4 +16,8 @@
 1. To train run Training_Script.ipynb
 2. To test results run Demographic_Char_Emo_Prediction.ipynb 
 
-### Output Screenshot 
+### Output
+
+Age, gender, race and emotion mentioned in the top box for each participant in the online video meeting.
+
+<img src="Screenshot 2023-06-02 at 3.01.19 PM.png" width="700"/>
